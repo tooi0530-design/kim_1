@@ -1,0 +1,5 @@
+{
+  "name": "Daily Planner Note",
+  "description": "A digital daily planner recreating the classic paper aesthetic. Features daily data persistence and AI-powered schedule suggestions.",
+  "requestFramePermissions": []
+}
